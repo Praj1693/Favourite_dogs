@@ -3,7 +3,7 @@
 ## 1. Install dependencies (node_modules) :
 ### `npm install`
 
-## In the project directory, you can run :
+## 2. In the project directory, you can run :
 
 ### `npm start`
 
